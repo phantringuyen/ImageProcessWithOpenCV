@@ -13,4 +13,4 @@
 - Edge detection algorithm
 
 ### Details of Project
-- For more details, please look at the *Report.pdf* file included above, thank you
+- For more details, please look at the **Report.pdf** file included above. Thank you !

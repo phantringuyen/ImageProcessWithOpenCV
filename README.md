@@ -11,3 +11,6 @@
 - Transform geometry
 - Smooth the image (image blurring, image smoothing)
 - Edge detection algorithm
+
+### Details of Project
+- For more details, please look at the *Report.pdf* file included above, thank you

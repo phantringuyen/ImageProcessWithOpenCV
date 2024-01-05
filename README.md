@@ -4,13 +4,13 @@
 
 ### 1. WorkSpace
 - To perform basic image processing according to user needs from [OpenCV library](https://opencv.org/).
-- Installing the **Edge detetion algorithm** with the algorithms learned in class and compare with the function supported by the library.
+- Installing the **Edge detection algorithm** with the algorithms learned in class and comparing it with the library-supported function.
 
 ### 2. Algorithms included:
-- Transform color
+- Transform colour
 - Transform geometry
 - Smooth the image (image blurring, image smoothing)
 - Edge detection algorithm
 
 ### Details of Project
-- For more details, please look at the **Report.pdf** file included above. Thank you !
+- For more details, please review the **Report.pdf** file above. Thank you!
